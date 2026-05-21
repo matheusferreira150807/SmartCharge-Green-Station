@@ -11,6 +11,7 @@
 * Nathan Werner 572925
 * Gustavo Henrique Pereira Correia 569921
 * Ricardo Santos 569600
+* Vinicius Goncalves Molena 571270
 
 ---
 
